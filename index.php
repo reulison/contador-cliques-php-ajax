@@ -51,7 +51,7 @@ Clicked <span id="click-003" class="click-count"><?php echo $count['click-003'];
 <h2>Mais informações:</h2>
 <p>Did you find this useful? There are more <a href="http://fofwebdesign.co.uk/freebies-for-websites/demos-and-snippets.php">demos and code snippets</a> this way.</p>
 &nbsp;
-</div><!-- closing ".page-content" -->
+</div>
 
 
 <script>
