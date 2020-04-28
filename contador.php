@@ -1,7 +1,7 @@
 <?php 
 
 /* Nota - adicione itens manualmente ao 'contador.txt'
-           um item por linha, neste formato;
+           um item por linha, neste formato:
            id||0
            ex. click-005||0
            ex. my-id||0
