@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 
 <title>Contador de Clicks em PHP + AJAX sem Banco de dados</title>
-<!-- http://blog.fofwebdesign.co.uk/23-click-counter-with-flat-file-storage-text-file-ajax-php -->
+<!-- https://reulison.com.br/contador-de-clicks-em-php-ajax/ -->
 
 <style>
 html, body { margin:0; padding:0; font:16px/1.75 Verdana, Arial, Helvetica, sans-serif }
