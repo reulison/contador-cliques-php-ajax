@@ -1,3 +1,4 @@
 click-001||36
 click-002||124
 click-003||513
+click-004||0 // adicionando
